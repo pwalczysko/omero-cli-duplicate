@@ -5,7 +5,7 @@
     :target: https://badge.fury.io/py/omero-cli-duplicate
 
 omero-cli-duplicate
-===================
+=================== 
 
 OMERO command-line plugin for duplicating Objects in OMERO, without duplicating binary data.
 
